@@ -1,7 +1,7 @@
 package gr.aueb.cf.projects;
 
 /**
- * "hello -> HeLlO
+ * "Transforms.
  */
 public class UpperLowerCaseApp {
 
